@@ -14,9 +14,6 @@ This project utilizes OpenAI's **GPT-3.5-turbo** model to create a mood improver
    - `git clone https://github.com/your-username/ai-webcam-mood-improver.git`
    - `cd ai-webcam-mood-improver`
 
-2. **Install dependencies:**
-   - `pip install -r requirements.txt`
-
 3. **Set up OpenAI API key:**
    - Create a `.env` file in the project root.
    - Add your OpenAI API key to the `.env` file:
