@@ -2,6 +2,8 @@ import cv2
 from deepface import DeepFace
 import time
 
+#POC for the idea
+
 # Function to wrap text and round values based on maximum width
 def wrap_and_round_text(text, max_width):
     words = text.split()
