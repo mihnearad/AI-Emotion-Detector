@@ -32,3 +32,15 @@ This project utilizes OpenAI's **GPT-3.5-turbo** model to create a mood improver
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+
+## Examples
+
+Terminal reply: 
+
+Last Values:
+Average Age: 37.0
+Highest Gender: Man
+Highest Emotion: Happy
+
+OpenAi: "You've reached the prime of your life, with so much experience and wisdom to offer. Embrace the opportunities ahead and let your light shine brightly, bringing joy to yourself and those around you."
